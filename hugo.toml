@@ -1,7 +1,7 @@
 baseURL = "https://truenas-immich-photo-backup.pages.dev/"
 languageCode = "en-us"
 title = "TrueNAS Immich Photo Backup"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "truenas-immich-photo-backup"
