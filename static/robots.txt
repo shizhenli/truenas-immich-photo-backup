@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://truenas-immich-photo-backup.pages.dev/sitemap.xml
