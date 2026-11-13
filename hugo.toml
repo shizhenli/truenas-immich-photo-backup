@@ -1,0 +1,11 @@
+baseURL = "https://truenas-immich-photo-backup.pages.dev/"
+languageCode = "en-us"
+title = "TrueNAS Immich Photo Backup"
+enableRobotsTXT = true
+[params]
+description = "Configure Immich on TrueNAS and verify phone backup, external libraries, thumbnails, and restore."
+category = "HomeLab"
+source = "truenas-immich-photo-backup"
+email = "hello@handytasklab.com"
+[markup.goldmark.renderer]
+unsafe = true
