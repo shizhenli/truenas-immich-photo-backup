@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://truenas-immich.handytasklab.com/sitemap.xml
