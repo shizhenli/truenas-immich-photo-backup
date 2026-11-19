@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://truenas-immich-photo-backup.pages.dev/sitemap.xml
+
+Sitemap: https://truenas-immich.handytasklab.com/sitemap.xml
